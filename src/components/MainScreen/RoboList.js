@@ -17,6 +17,7 @@ const RoboList = (props) => {
         <ScrollView
             contentContainerStyle={{
                 alignItems: 'center',
+                marginTop: '1%',
             }}
             refreshControl={
                 <RefreshControl
